@@ -78,31 +78,31 @@ permalink: /about/
         </ul>
       {% endif %}
 
-      {% if site.works %}
-      <h2>#Work Experience</h2>
-      <ul>
-        {% for work in site.works %}
-          <li>{{work}}</li>
-        {% endfor %}
-      </ul>
-      {% endif %}
-
       {% if site.educations %}
-      <h2>#Education</h2>
-      <ul>
+        <h2>#Education</h2>
+        <ul>
         {% for education in site.educations %}
           <li>{{education}}</li>
         {% endfor %}
-      </ul>
+        </ul>
+      {% endif %}
+
+      {% if site.works %}
+        <h2>#Work Experience</h2>
+        <ul>
+        {% for work in site.works %}
+          <li>{{work}}</li>
+        {% endfor %}
+        </ul>
       {% endif %}
 
       {% if site.experiences %}
-      <h2>#Experience</h2>
-      <ul>
+        <h2>#Experience</h2>
+        <ul>
         {% for experience in site.experiences %}
-        <li>{{experience}}</li>
+          <li>{{experience}}</li>
         {% endfor %}
-      </ul>
+        </ul>
       {% endif %}
     </section>
   </div> <!-- End About Container -->
