@@ -1759,3 +1759,7 @@ pre code {
     margin: 0 0 15px;
   }
 }
+
+.about-detail {
+  font-family: 'Montserrat', sans-serif;
+}
