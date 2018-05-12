@@ -6,13 +6,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://downy158.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Downy Song # add your name
+author: Downy Song
 author-pic: profile.jpg
 about-author: My name is Downy Song. I’m a front-end developer.
 
 # Contact links
-email: kongredbean@gmail.com# Add your Email address
-website: # Add your website, do not add http://
+email: kongredbean@gmail.com
+website: downy158.github.io
 # linkedin: # Add your Linkedin handle
 github: downy158 # Add your Github handle
 # twitter: '@artemsheludko_' # Add your Twitter handle
