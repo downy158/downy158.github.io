@@ -24,19 +24,22 @@ facebook: # Add your Facebook handle
 # mailchimp: # Add your MailChimp form identifier.
 
 # skill
-skills: ["javascript", "css", "python", "HTML5", "node.js", "react", "react-native", "meteor" ]
+skills: ["javascript", "css", "python", "HTML5", "react", "react-native", "meteor" ]
 
 # work experience
 works: [
 "2013.01~2016.07 Samsung SDS, Software Quality Assurance Engineer",
 "2016.11~2017.09 Leisure Q, Front-End Developer",
 "2018.02~2018.03 Meteor Startup, Internship(Front-End,Back-End)",
-"2018.03~2018.04 시소 프로젝트(픽셀), Freelancer(Front-End)"
+"2018.03~2018.04 시소 프로젝트(픽셀), Freelancer(Front-End)",
+"2019.02~2019.06, 슬로워크, Front-End Developer",
+"2019.07~2019.09, 오디오 학습 앱 프로젝트, Freelancer(기획)",
+"2019.10~, 영어 학습법 앱 프로젝트, Freelancer(기획 및 App developer)",
 ]
 
 # education
 educations: ["2010~2013 Hansei Cyber Security High School(Major in Hacking and Security)",
-"2016~ Hanyang University(Bachelor's degree, Division Of Interdisciplinary Industrial Studies, Major in IT Convergence)"
+"2016~2020 Hanyang University(Bachelor's degree, Division Of Interdisciplinary Industrial Studies, Major in IT Convergence)"
 ]
 
 #experience
